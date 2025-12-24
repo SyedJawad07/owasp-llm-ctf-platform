@@ -31,5 +31,4 @@ Open: `http://localhost:3000`
 ## Warning
 ⚠️ Intentionally vulnerable - Educational use only!
 
-## License
-MIT
+
